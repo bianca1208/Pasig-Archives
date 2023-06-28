@@ -14,6 +14,8 @@ credits: true
 
 ## About the Writer
 
-Bianca is a BA Journalism student at the University of the Philippines - Diliman. She resides in Baranggay Manggahan, near the Cainta boundary. She’s been a Pasig resident since 2020.
+{% include feature/card.html header="Bianca Lucañas" text="Bianca is a BA Journalism student at the University of the Philippines - Diliman. She resides in Baranggay Manggahan, near the Cainta boundary. She’s been a Pasig resident since 2020." objectid="demo_007" width="25" centered=true %}
+
+
 
 {% include cb/about_the_about.md %} 
