@@ -20,7 +20,7 @@ Vico Sotto won the 2022 elections and is currently serving his second term as th
 Besides iconic landmarks such as the Pasig River (Ilog Pasig), the city also showcases its identity through its “Umaagos ang pag-asa” (overflowing with hope) is the tagline.
 
 References: 
-<p>(n.d.). Pasig City. Philippine Cities. <a href="[https://www.google.com/](https://philippinescities.com/pasig-city/#:~:text=Pasig%20was%20a%20part%20before,Marcos%20through%20Presidential%20Decree%20824.)">https://philippinescities.com/pasig-city/#:~:text=Pasig%20was%20a%20part%20before,Marcos%20through%20Presidential%20Decree%20824.</a>.</p>
+<p>(n.d.). Pasig City. Philippine Cities. <a href="https://philippinescities.com/pasig-city/#:~:text=Pasig%20was%20a%20part%20before,Marcos%20through%20Presidential%20Decree%20824">https://philippinescities.com/pasig-city/#:~:text=Pasig%20was%20a%20part%20before,Marcos%20through%20Presidential%20Decree%20824</a></p>
 
 (n.d.). About Pasig City. Pasig City government website. https://www.pasigcity.gov.ph/about-pasig-city.   
 
