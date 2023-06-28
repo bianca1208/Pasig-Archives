@@ -106,12 +106,12 @@ font-cdn: "#link href="https://fonts.googleapis.com/css?family=Roboto&display=sw
 # the values must match an icon svg name in "assets/lib/icons/"
 #
 # icons: 
- icon-image: image
-   icon-audio: soundwave
-   icon-video: film
-   icon-pdf: file-pdf
-   icon-record: file-text
-   icon-compound-object: collection
-   icon-multiple: postcard
-   icon-default: file-earmark # fall back icon
-   icon-back-to-top: arrow-up-square # scroll to top icon
+# icon-image: image
+ #  icon-audio: soundwave
+  # icon-video: film
+   #icon-pdf: file-pdf
+   #icon-record: file-text
+   #icon-compound-object: collection
+   #icon-multiple: postcard
+   #icon-default: file-earmark # fall back icon
+   #icon-back-to-top: arrow-up-square # scroll to top icon
