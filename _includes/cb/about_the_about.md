@@ -7,20 +7,21 @@
 {% assign audiosample = site.data[site.metadata] | where_exp: 'item','item.format contains "audio"' | first %}
 {% capture audiosampleid %}{{audiosample.objectid | default: "https://www.lib.uidaho.edu/digital/mp3s/Clouds.mp3"}}{% endcapture %}
 
-## About the About Page
+## About Pasig City
 
-We want to make engaging interpretive pages easier to create, so CollectionBuilder gives you tools to write *with* your collection content!
+{% include feature/card.html header="Logo of Pasig City" objectid="demo_006" width="35" centered=true %}
 
-The template comes with a customizable "About" page layout designed for long form content with rich media embeds.
-Content is written in [Markdown](https://guides.github.com/features/mastering-markdown/) and enhanced using "includes" that pull in collection content, external media, and [Bootstrap](https://getbootstrap.com/) features like cards and modals.
-We hope this makes it easier for site builders to develop the collection AND add interesting and engaging contextual information. 
+Pasig has been a city for about 48 years now. It used to be part of the Rizal province, but was officially declared as a city in 1975 through former President Marcos Sr.’s Presidential Decree 824. 
 
-Each "include" file has several options, which are documented in the files themselves--copy the examples to see how it works with your content! 
-In the demo below, we've given display widths of 25% and 50% to save space, but you can feature the entire image or document.
+Resting at the second district of the National Capital Region, the said city is located in the eastern part of Metro Manila. Its neighboring cities are Quezon City, Mandaluyong, Marikina, and some of its parts are beside the boundaries of Rizal province. Based on the 2020 census from the Philippine Statistics Authority, Pasig is home to 803, 159 residents. 
 
-You can also see a page featuring [a bonanza of feature includes options](https://collectionbuilder.github.io/collectionbuilder-gh/feature_options.html) on our CollectionBuilder-GH demo site. 
+Vico Sotto won the 2022 elections and is currently serving his second term as the Pasig City Mayor. His fellow local officials are Robert Jaworski Jr (vice mayor) and Roman Romulo (city congressman). Their term of office is until 2025, before the midterm elections.
 
-{% include feature/button.html text="Feature *Includes* Bonanza page" link="https://collectionbuilder.github.io/collectionbuilder-gh/feature_options.html" color="primary" size="lg" centered=true %}
+Besides iconic landmarks such as the Pasig River (Ilog Pasig), the city also showcases its identity through its “Umaagos ang pag-asa” (overflowing with hope) is the tagline.
+
+{% include feature/modal.html button="References" title="When clicked:" text="(n.d.). Pasig City. Philippine Cities. https://philippinescities.com/pasig-city/#:~:text=Pasig%20was%20a%20part%20before,Marcos%20through%20Presidential%20Decree%20824.
+(n.d.). About Pasig City. Pasig City government website. https://www.pasigcity.gov.ph/about-pasig-city.   
+Philippine Statistics Authority. (2021, July 13). Highlights of the Philippine Population 2020 Census of Population and Housing (2020 CPH). https://psa.gov.ph/content/highlights-philippine-population-2020-census-population-and-housing-2020-cph" color="primary"  %} 
 
 ### Include Collection Items
 
