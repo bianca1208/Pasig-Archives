@@ -96,8 +96,8 @@ bootswatch: minty
 base-font-size: 1.2em
 text-color: "#191919"
 link-color: "#0d6efd"
-base-font-family: # comment out for bootstrap defaults. e.g. Roboto
-font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+base-font-family: "#Roboto"
+font-cdn: "#link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">"
 
 # THEME ICONS [optional!]
 # cb-gh uses Bootstrap Icons, https://icons.getbootstrap.com/
@@ -106,12 +106,12 @@ font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/c
 # the values must match an icon svg name in "assets/lib/icons/"
 #
 # icons: 
-#   icon-image: image
-#   icon-audio: soundwave
-#   icon-video: film
-#   icon-pdf: file-pdf
-#   icon-record: file-text
-#   icon-compound-object: collection
-#   icon-multiple: postcard
-#   icon-default: file-earmark # fall back icon
-#   icon-back-to-top: arrow-up-square # scroll to top icon
+ icon-image: image
+   icon-audio: soundwave
+   icon-video: film
+   icon-pdf: file-pdf
+   icon-record: file-text
+   icon-compound-object: collection
+   icon-multiple: postcard
+   icon-default: file-earmark # fall back icon
+   icon-back-to-top: arrow-up-square # scroll to top icon
