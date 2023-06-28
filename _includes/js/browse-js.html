@@ -24,7 +24,7 @@ function makeCard(obj) {
     // add images or thumb for objects based on format
     if(obj.youtube) {
         imgSrc = 'https://img.youtube.com/vi/' + obj.youtube + '/hqdefault.jpg';
-    } else if (obj.format.language("eng")) {
+    } else if (obj.language.includes("eng")) {
         imgSrc = obj.filename;
     } else if (obj.format.includes("audio")) {
         thumbSrc = '{{ "/assets/lib/icons/" | relative_url }}{{ icons.icon-audio }}.svg';
