@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="[https://newsinfo.inquirer.net/files/2022/03/266273.jpeg](https://media.interaksyon.com/wp-content/uploads/2022/03/pasiglaban-campaign-rally.jpg)" %}
+{% include feature/jumbotron.html objectid="https://media.interaksyon.com/wp-content/uploads/2022/03/pasiglaban-campaign-rally.jpg" %}
 
 {% include feature/nav-menu.html sections="About the Writer;About Pasig" %}
 
