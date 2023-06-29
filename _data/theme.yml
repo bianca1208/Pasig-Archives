@@ -50,8 +50,8 @@ subjects-stopwords: # boxers;boxing;boxer # set of subjects separated by ;, e.g.
 ##########
 # TIMELINE PAGE
 #
-#year-navigation: #"1900;1905;1910;1915;1920" # set years to appear in dropdown nav, leave blank to auto gen
-#year-nav-increment: 5 # set increments when auto gen nav years
+year-navigation: #"1900;1905;1910;1915;1920" # set years to appear in dropdown nav, leave blank to auto gen
+year-nav-increment: 5 # set increments when auto gen nav years
 
 ##########
 # DATA 
