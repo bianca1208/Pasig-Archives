@@ -22,6 +22,9 @@ Besides iconic landmarks such as the Pasig River (Ilog Pasig), the city also sho
 References: 
 <p>(n.d.). Pasig City. Philippine Cities. <a href="https://philippinescities.com/pasig-city/#:~:text=Pasig%20was%20a%20part%20before,Marcos%20through%20Presidential%20Decree%20824">https://philippinescities.com/pasig-city/#:~:text=Pasig%20was%20a%20part%20before,Marcos%20through%20Presidential%20Decree%20824</a></p>
 
-(n.d.). About Pasig City. Pasig City government website. https://www.pasigcity.gov.ph/about-pasig-city.   
 
-Philippine Statistics Authority. (2021, July 13). Highlights of the Philippine Population 2020 Census of Population and Housing (2020 CPH). https://psa.gov.ph/content/highlights-philippine-population-2020-census-population-and-housing-2020-cph
+<p>(n.d.). About Pasig City. Pasig City government website. <a href="https://www.pasigcity.gov.ph/about-pasig-city">https://www.pasigcity.gov.ph/about-pasig-city</a></p>
+
+<p>(n.d.). Philippine Statistics Authority. (2021, July 13). Highlights of the Philippine Population 2020 Census of Population and Housing (2020 CPH). <a href="https://psa.gov.ph/content/highlights-philippine-population-2020-census-population-and-housing-2020-cph">https://psa.gov.ph/content/highlights-philippine-population-2020-census-population-and-housing-2020-cph</a></p>
+
+ 
