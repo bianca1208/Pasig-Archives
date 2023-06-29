@@ -7,7 +7,7 @@
 {% assign audiosample = site.data[site.metadata] | where_exp: 'item','item.format contains "audio"' | first %}
 {% capture audiosampleid %}{{audiosample.objectid | default: "https://www.lib.uidaho.edu/digital/mp3s/Clouds.mp3"}}{% endcapture %}
 
-{% ## About Pasig City centered=true %}
+## About Pasig City
 
 {% include feature/card.html objectid="demo_006" width="30" centered=true %}
 
