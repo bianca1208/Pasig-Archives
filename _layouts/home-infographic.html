@@ -3,15 +3,16 @@
 layout: page
 ---
 {%- assign items = site.data[site.metadata] | where_exp: 'item', 'item.objectid != nil' -%}
-<center><div class="row">
+<div class="row">
   <div class="col-md-11" centered=true>
 
     {% include index/description.html %}
-    {% include index/carousel.html title="Glimpse of the event" height="400" width="300" centered=true %}
+   <center><div> {% include index/carousel.html title="Glimpse of the event" height="400" width="300" centered=true %}
 
     {% include feature/card.html header="Favorite memory in Pasig" text="My most memorable memory is attending the Leni-Kiko PaslgLaban rally back in March 2022. It was my first time attending a presidential rally so I was nervous and didn’t know what to expect. Granted, the sortie itself was technically held in the Ortigas area, but it was intended for Pasig residents and its neighboring locations. The friends who accompanied me were also from Pasig and its also my first event as a Pasig resident, too. 
 
 It turned out that I was nervous for nothing anyway. The Leni-Kiko rally was overflowing with camaraderie, bayanihan, and goodwill. Everybody was looking out for each other and spoke to each other with such kindness that you just felt so inspired by the example that former vice president Robredo has imbibed to us. It was not only raining pink that day, but also the call for good and honest governance. The elections might not have turned out the way we wanted, but the impact of the people’s campaign will always stay with us. I, for one, will carry that memory forever—proud to be one of the 15 million who stood for genuine leaders. " objectid="https://denisemallabo.files.wordpress.com/2022/04/cover-pasiglaban.jpg" width="400" centered=true %}
+  </div></center>
   </div>
   <div class="col-md-4">  
 
@@ -27,4 +28,4 @@ It turned out that I was nervous for nothing anyway. The Leni-Kiko rally was ove
     {% include index/data-download.html %}
 
   </div>
-</div></center>
+</div>
