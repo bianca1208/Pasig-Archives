@@ -4,7 +4,7 @@ layout: page
 ---
 {%- assign items = site.data[site.metadata] | where_exp: 'item', 'item.objectid != nil' -%}
 <div class="row">
-  <div class="col-md-8">
+  <div class="col-md-8" centered=true>
 
     {% include index/description.html %}
     {% include index/carousel.html title="Glimpse of the event" height="400" width="300" centered=true %}
