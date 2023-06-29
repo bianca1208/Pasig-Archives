@@ -19,12 +19,15 @@ Vico Sotto won the 2022 elections and is currently serving his second term as th
 
 Besides iconic landmarks such as the Pasig River (Ilog Pasig), the city also showcases its identity through its “Umaagos ang pag-asa” (overflowing with hope) is the tagline.
 
-References: 
+{% include feature/modal.html button="This is a modal using a 'primary' colored button to invite clicking" title="When clicked:" 
+
+text="References: 
 <p>(n.d.). Pasig City. Philippine Cities. <a href="https://philippinescities.com/pasig-city/#:~:text=Pasig%20was%20a%20part%20before,Marcos%20through%20Presidential%20Decree%20824">https://philippinescities.com/pasig-city/#:~:text=Pasig%20was%20a%20part%20before,<br>Marcos%20through%20Presidential%20Decree%20824</a></p>
 
 
 <p>(n.d.). About Pasig City. Pasig City government website. <a href="https://www.pasigcity.gov.ph/about-pasig-city">https://www.pasigcity.gov.ph/about-pasig-city</a></p>
 
-<p>(n.d.). Philippine Statistics Authority. (2021, July 13). Highlights of the Philippine Population 2020 Census of Population and Housing (2020 CPH). <a href="https://psa.gov.ph/content/highlights-philippine-population-2020-census-population-and-housing-2020-cph">https://psa.gov.ph/content/highlights-philippine-population-2020-census-population-and-housing-2020-cph</a></p>
+<p>(n.d.). Philippine Statistics Authority. (2021, July 13). Highlights of the Philippine Population 2020 Census of Population and Housing (2020 CPH). <a href="https://psa.gov.ph/content/highlights-philippine-population-2020-census-population-and-housing-2020-cph">https://psa.gov.ph/content/highlights-philippine-population-2020-census-population-and-housing-2020-cph</a></p>" 
 
- 
+color="primary" %}
+
